@@ -58,7 +58,10 @@ background: linear-gradient(to right, #ffffff, #abbaab);
     --smaller-font-size: .813rem;
   }
 }
-
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
+}
 /*========== BASE ==========*/
 *,::before,::after{
   box-sizing: border-box;
