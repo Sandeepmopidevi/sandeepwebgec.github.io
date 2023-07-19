@@ -268,8 +268,13 @@ width: 100%;
 }
 .img-responsive{
   width: 100%;
-  height: 15vh;
+  height: 17vh;
   background-image: linear-gradient(silver,grey);
+}
+@media only screen and (max-width: 767px) {
+  .img-responsive {
+    height: 8vh; 
+  }
 }
 /*========== HOME ==========*/
 .home__container{
