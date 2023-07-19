@@ -272,9 +272,9 @@ width: 100%;
   background-image: linear-gradient(silver,grey);
 }
 @media only screen and (max-width: 767px) {
-  /* Adjust the height for mobile devices if needed */
+  
   .img-responsive {
-    height: 4vh; /* Adjust the height for a smaller header on mobile devices */
+    height: 5vh; 
   }
 }
 /*========== HOME ==========*/
